@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyBlog</string>
+    <string name="blogs">Blogs</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <string name="title_activity_blog">BlogActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="motorbike_racing_in_town">MotorBike Racing in Town</string>
+    <string name="trending">Trending</string>
+    <string name="category">Category</string>
+    <string name="blogPageTextContent">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis bibendum ut tristique et. Id velit ut tortor pretium viverra suspendisse potenti nullam. Eu mi bibendum neque egestas congue. Nulla pellentesque dignissim enim sit amet venenatis urna. Pellentesque habitant morbi tristique senectus et netus et. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Viverra nibh cras pulvinar mattis nunc sed blandit. Et netus et malesuada fames. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Sed risus ultricies tristique nulla aliquet enim tortor at. At augue eget arcu dictum varius duis at consectetur lorem. Aliquet enim tortor at auctor urna nunc id cursus. Ultricies integer quis auctor elit sed vulputate mi. Placerat in egestas erat imperdiet sed euismod nisi porta lorem. Pharetra et ultrices neque ornare aenean euismod elementum. Habitant morbi tristique senectus et netus et malesuada fames ac. Neque convallis a cras semper. Nulla aliquet enim tortor at auctor urna nunc.
+
+Enim nulla aliquet porttitor lacus luctus. Enim blandit volutpat maecenas volutpat blandit. Quis risus sed vulputate odio ut enim blandit. Et leo duis ut diam quam nulla. Vitae nunc sed velit dignissim sodales ut eu sem integer. Ultricies mi eget mauris pharetra. Neque laoreet suspendisse interdum consectetur libero id faucibus. Interdum varius sit amet mattis vulputate enim nulla. Tortor aliquam nulla facilisi cras fermentum. Nunc sed blandit libero volutpat. Eleifend quam adipiscing vitae proin. Purus semper eget duis at tellus at urna. Mi tempus imperdiet nulla malesuada. Fermentum leo vel orci porta non pulvinar neque laoreet. Ac tortor dignissim convallis aenean et tortor. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Quam elementum pulvinar etiam non quam lacus suspendisse. Dapibus ultrices in iaculis nunc sed augue. Neque volutpat ac tincidunt vitae semper.
+
+Sit amet commodo nulla facilisi nullam vehicula ipsum a. Lectus urna duis convallis convallis. Dictum sit amet justo donec enim diam. Quisque non tellus orci ac auctor augue mauris. Sit amet est placerat in egestas. Neque aliquam vestibulum morbi blandit. Arcu odio ut sem nulla. Urna neque viverra justo nec ultrices dui. Risus pretium quam vulputate dignissim suspendisse. Orci phasellus egestas tellus rutrum tellus. Quis eleifend quam adipiscing vitae proin. </string>
+    <string name="share">SHARE</string>
+    <string name="explore">Explore</string>
+    <string name="settings">Settings</string>
+    <string name="categories">Categories</string>
+    <string name="help_feedback"><![CDATA[Help & feedback]]></string>
+    <string name="my_blogs">My blogs</string>
+    <string name="personal">Personal</string>
+    <string name="professional">Professional</string>
+    <string name="business">Business</string>
+    <string name="sports">Sports</string>
+    <string name="photography">Photography</string>
+    <string name="travel">Travel</string>
+    <string name="food">Food</string>
+    <string name="life_style">Life Style</string>
+    <string name="humor">Humor</string>
+    <string name="beauty">Beauty</string>
+    <string name="hanna_montannah">Hanna montannah</string>
+</resources>

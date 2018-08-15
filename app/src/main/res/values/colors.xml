@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#606060</color>
+    <color name="colorPrimaryDark">#3c3c3c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="categoryHeader">#FFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="seperateLine">#C3C3C3</color>
+</resources>
